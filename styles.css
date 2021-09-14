@@ -1,0 +1,55 @@
+.inicio{
+    display: flex;
+    flex-direction: column;
+    background-color: gainsboro;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+  
+}
+
+.header{
+    background-color: white;
+    margin-top: 0px;
+    height: 40px;
+    padding-left:555px;
+    display: flex;
+    align-items: center;
+}
+
+.post{
+    margin: auto;
+    background-color: white;
+    width: 400px;
+    height:390px;
+    
+}
+
+
+.title{
+    
+    padding-left: 10px;
+    width: 400px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.left{
+    width:340px;
+}
+
+.right{
+    float: inline-end;
+}
+
+.description{
+    padding-left: 10px;
+    width: 400px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+  
+    
+}
